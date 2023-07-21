@@ -1,0 +1,28 @@
+{
+    "locales" : [
+        {
+            "id": 1,
+            "leafletLatitude": 10,
+            "leafletLongitude": 20,
+            "label": "Label",
+            "realLatitude": -23.545738339358397,
+            "realLongitude": -46.72559037574712
+        },
+        {
+            "id": 2,
+            "leafletLatitude": 30,
+            "leafletLongitude": 40,
+            "label": "Label 2",
+            "realLatitude": -23.545738339358397,
+            "realLongitude": -46.72559037574712
+        },
+        {
+            "id": 3,
+            "leafletLatitude": 45,
+            "leafletLongitude": 45,
+            "label": "Label IRRAAA",
+            "realLatitude": -23.545738339358397,
+            "realLongitude": -46.72559037574712
+        }
+    ]
+}
